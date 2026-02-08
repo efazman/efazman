@@ -9,8 +9,8 @@
 - Built an Ice Forecast Map with **React**, **Python** and **Scikit Learn** for the Michigan Office of Defense Aerospace and Innovation (ODAI). Includes a 4 day forecast of ice build up in the great lakes and planned ship routes.
 
 ### Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,java,js,linux,bash,py,react,vscode,node,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,java,js,linux,bash,py,react,vscode,node,arduino&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,java,js,linux,bash,py,react,vscode,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,java,js,linux,bash,py,react,vscode,arduino&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Connect with me  
 [![linkedin](./assets/linkedin-light.svg)](https://www.linkedin.com/in/efaz-rahman-umich586/#gh-light-mode-only)
