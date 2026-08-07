@@ -1,7 +1,7 @@
 # Hi there, I'm Efaz!
 
 ### About me
-- I'm a Computer Engineering student at **The University of Michigan** 
+- I'm a Computer Science student at **The University of Michigan** 
 - Currently working on a peformance profiler that detects cache locality issues, tracing them back to their root and embedding an LLM to analyze the data and discuss why the issue occurred and how to prevent it in the future.
 ### 🔧 Previously Worked On  
 - Developed a full-stack web application, **Roomies Ledger**, using **React**, **Supabase**, and **SQL** to calculate and budget community spendings for roommates, events, and more.   
