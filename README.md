@@ -6,6 +6,9 @@
 ### 🔧 Previously Worked On  
 - Developed a full-stack web application, **Roomies Ledger**, using **React**, **Supabase**, and **SQL** to calculate and budget community spendings for roommates, events, and more.   
 - Built an Ice Forecast Map with **React**, **Python** and **Scikit Learn** for the Michigan Office of Defense Aerospace and Innovation (ODAI). Includes a 4 day forecast of ice build up in the great lakes and planned ship routes.
+- Deployed a Website for a Michigan farm-to-foodbank nonprofit. ~1,100 lines of vanilla HTML/CSS/JS with zero runtime dependencies and no build step: hand-written **client-side router, event calendar, and content rendering**. Ships ~17 KB gzipped; deployed on Cloudflare Workers static assets.
+- [michiganharvest.exchange](url)
+
 
 ### Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,java,js,linux,bash,py,react,vscode,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
