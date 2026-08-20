@@ -1,7 +1,7 @@
 # Hi there, I'm Efaz!
 
 ### About me
-- I'm a Computer Science student at **The University of Michigan** 
+- I'm a Computer Science student at **The University of Michigan** also going for an EE Minor!
 - Currently working on a peformance profiler in **C++** that detects cache locality issues, tracing them back to their root.
 - Implementing Data Structures from scratch to exercise my C++ skills.
 ### 🔧 Previously Worked On  
