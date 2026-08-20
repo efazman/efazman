@@ -2,8 +2,8 @@
 
 ### About me
 - I'm a Computer Science student at **The University of Michigan** also going for an EE Minor!
-- a **C++ profiler** that finds cache
-locality bottlenecks. Samples hardware performance counters via
+### 🔧 Currently Working On
+- A **C++ profiler** that finds cache locality bottlenecks. Samples hardware performance counters via
 `perf_event_open`, attributes misses to source lines through DWARF, and ranks
 sites by miss concentration rather than raw miss count. On a matrix-multiply
 benchmark it surfaces a strided access line that raw miss count ranks below
@@ -16,8 +16,8 @@ loop control; reordering that loop gives 2.09x speedup and 7.3x fewer misses.
 - Built an Ice Forecast Map with **React**, **Python** and **Scikit Learn** for the Michigan Office of Defense Aerospace and Innovation (ODAI). Includes a 4 day forecast of ice build up in the great lakes and planned ship routes. This was showcased at MiSpace Hackathon 2025 and won **First Place**!
 
 ### Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,java,js,linux,bash,py,react,vscode,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,java,js,linux,bash,py,react,vscode,arduino&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,git,github,linux,bash,vscode,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,git,github,linux,bash,vscode,arduino&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Connect with me  
 [![linkedin](./assets/linkedin-light.svg)](https://www.linkedin.com/in/efaz-rahman-umich586/#gh-light-mode-only)
