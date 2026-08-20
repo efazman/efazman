@@ -2,13 +2,17 @@
 
 ### About me
 - I'm a Computer Science student at **The University of Michigan** also going for an EE Minor!
-- Currently working on a peformance profiler in **C++** that detects cache locality issues, tracing them back to their root.
+- a **C++ profiler** that finds cache
+locality bottlenecks. Samples hardware performance counters via
+`perf_event_open`, attributes misses to source lines through DWARF, and ranks
+sites by miss concentration rather than raw miss count. On a matrix-multiply
+benchmark it surfaces a strided access line that raw miss count ranks below
+loop control; reordering that loop gives 2.09x speedup and 7.3x fewer misses.
 - Implementing Data Structures from scratch to exercise my C++ skills.
 ### 🔧 Previously Worked On  
 - Developed a full-stack web application, **Roomies Ledger**, using **React**, **Supabase**, and **SQL** to calculate and budget community spendings for roommates, events, and more. This was showcased at TartanHacks 26. 
 - Built an Ice Forecast Map with **React**, **Python** and **Scikit Learn** for the Michigan Office of Defense Aerospace and Innovation (ODAI). Includes a 4 day forecast of ice build up in the great lakes and planned ship routes. This was showcased at MiSpace Hackathon 2025 and won **First Place**!
-- Deployed a Website for a Michigan farm-to-foodbank nonprofit. ~1,100 lines of vanilla HTML/CSS/JS with zero runtime dependencies and no build step: hand-written **client-side router, event calendar, and content rendering**. Ships ~17 KB gzipped; deployed on Cloudflare Workers static assets. 
-
+- Backend intern at Criteo, summer 2026 — C#/.NET build and API infrastructure.
 
 ### Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,java,js,linux,bash,py,react,vscode,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
