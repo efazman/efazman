@@ -3,12 +3,10 @@
 ### About me
 - I'm a Computer Science student at **The University of Michigan** also going for an EE Minor!
 ### 🔧 Currently Working On
-- Adaptive Inference Scheduler for In-House Models. More info soon...
+- An **Adaptive LLM Inference Scheduler** for a locally served Llama 3.1 8B, built to test how much scheduling policy matters when request service times vary by an order of magnitude with LLMs.
 - A **C++ profiler** that finds cache locality bottlenecks. Samples hardware performance counters via
 `perf_event_open`, attributes misses to source lines through DWARF, and ranks
-sites by miss concentration rather than raw miss count. On a matrix-multiply
-benchmark it surfaces a strided access line that raw miss count ranks below
-loop control; reordering that loop gives 2.09x speedup and 7.3x fewer misses.
+sites by miss concentration rather than raw miss count.
 ### 🔧 Previously Worked On  
 - **SDE Backend intern** at **Criteo**, summer 2026 — C#/.NET build and API infrastructure. Authored and implemented a large-scale migration for the generation of consumable clients in the financial domain. Worked with **C#/.NET, OpenAPI 3.0, NuGet, Swashbuckle (Swagger)**.
 - **Embedded SWE, MARC**, we just competed at ARC Robotics Season 1!
