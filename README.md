@@ -3,13 +3,13 @@
 ### About me
 - I'm a Computer Science student at **The University of Michigan** also going for an EE Minor!
 ### 🔧 Currently Working On
-- An **Adaptive LLM Inference Scheduler** for a locally served Llama 3.1 8B, built to test how much scheduling policy matters when request service times vary by an order of magnitude with LLMs.
 - A **C++ profiler** that finds cache locality bottlenecks. Samples hardware performance counters via
 `perf_event_open`, attributes misses to source lines through DWARF, and ranks
 sites by miss concentration rather than raw miss count.
 ### 🔧 Previously Worked On  
+- **Embedded SWE, MARC**, prepping for next competition!
+- An **Adaptive LLM Inference Scheduler** for a locally served Llama 3.1 8B, built to test how much scheduling policy matters when request service times vary by an order of magnitude with LLMs.
 - **SDE Backend intern** at **Criteo**, summer 2026 — C#/.NET build and API infrastructure. Authored and implemented a large-scale migration for the generation of consumable clients in the financial domain. Worked with **C#/.NET, OpenAPI 3.0, NuGet, Swashbuckle (Swagger)**.
-- **Embedded SWE, MARC**, we just competed at ARC Robotics Season 1!
 - Developed a full-stack web application, **Roomies Ledger**, using **React**, **Supabase**, and **SQL** to calculate and budget community spendings for roommates, events, and more. This was showcased at TartanHacks 26. 
 - Built an Ice Forecast Map with **React**, **Python** and **Scikit Learn** for the Michigan Office of Defense Aerospace and Innovation (ODAI). Includes a 4 day forecast of ice build up in the great lakes and planned ship routes. This was showcased at MiSpace Hackathon 2025 and won **First Place**!
 
